@@ -3,7 +3,7 @@ Plant Disease Classification
 🔹 Introduction
 
 In this project, we used the MobileNetV2 model to classify plant leaf diseases from images.
-The idea of the model is to take a leaf image 🌿, analyze its shape, color, and disease spots, and then predict the type of disease along with a confidence score.
+The idea of the model is to take a leaf image , analyze its shape, color, and disease spots, and then predict the type of disease along with a confidence score.
 
 The model is built using Transfer Learning, meaning we started from a pretrained model that had already been trained on millions of images, then fine-tuned it using our project dataset to specialize in plant disease classification.
 
@@ -100,7 +100,7 @@ Heatmaps over the leaf images
 
 Visualization of the regions the model focused on during prediction
 
-🔴 Red regions indicate the most influential areas in the model’s decision.
+ Red regions indicate the most influential areas in the model’s decision.
 
 This confirms that the model is not making random predictions, but is actually focusing on the infected parts of the leaf.
 
