@@ -1,6 +1,6 @@
 # AI-Skills-Projects
 AI project
-# 🌱 Plant Disease Classification
+#  Plant Disease Classification
 
 ## Overview
 This project focuses on **classifying plant leaf diseases** from images using **Deep Learning and AI techniques**.  
